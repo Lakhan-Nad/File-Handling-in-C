@@ -4,6 +4,7 @@ This repository contains some file handling programs in C++. These are useful fo
 ## Contributors:
   * [**Ram Nad**](https://github.com/ram-nad)
   * [**Nitin Sultania**](https://github.com/nitinsultania)
+  * [**Lakhan Nad**](https://github.com/Lakhan-Nad)
   
 ## **Library Management System**
    This is basically a handy tool to use for library management in schools and colleges.
